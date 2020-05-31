@@ -1,2 +1,3 @@
 # vue-fundamentals
-This is some folder fuck my life
+
+Here we start project regarding Vue.js and learn initial concepts.
